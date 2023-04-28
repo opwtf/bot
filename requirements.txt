@@ -1,0 +1,4 @@
+time
+bs4
+pyTelegramBotAPI
+urllib
